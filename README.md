@@ -1,2 +1,2 @@
 # Webshop-without-framework
-A basic functional web shop using JavaScript only.
+A basic functional web shop, showing products from a pre-built random products array.
